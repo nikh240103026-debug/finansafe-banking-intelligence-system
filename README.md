@@ -420,4 +420,10 @@ Source: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutor
 
 ## License
 
-This project is intended for educational and portfolio purposes. The datasets used are publicly available on Kaggle under their respective licenses. The trained model files are not distributed with this repository.
+This project is intended for educational and portfolio purposes. The datasets used are publicly available on Kaggle under their respective licenses. The trained model files are not distributed with this repository due to the large file size that is not accepted by github.
+
+---
+
+## Author
+
+Nikhil Raj from IIIT MANIPUR - B.TECH, Computer Science & Engineering with specialization in AI and Data Science, currently working on FinTech Data Science projects to solve the real world problems exist in Financial world.
