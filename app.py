@@ -136,9 +136,11 @@ legit_amounts = None
 fraud_times = None
 legit_times = None
 
-if os.path.exists('creditcard.csv'):
+FRAUD_DATASET = 'creditcard_sample.csv'
+
+if os.path.exists(FRAUD_DATASET):
     try:
-        df_fraud = pd.read_csv('creditcard.csv')
+        df_fraud = pd.read_csv(FRAUD_DATASET)
 
         scaler = StandardScaler()
 
