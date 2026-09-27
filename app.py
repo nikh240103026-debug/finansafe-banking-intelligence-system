@@ -49,7 +49,7 @@ def get_default_model():
     if default_model is not None:
         return default_model
 
-    credit_model_path = 'models/credit_default_model.pkl'
+    credit_model_path = 'models/credit_default_model_small.pkl'
 
     try:
         # -------------------------------------------------------------
